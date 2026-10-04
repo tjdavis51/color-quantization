@@ -1,0 +1,6 @@
+.DS_Store
+venv/
+venv.backup-before-rebuild/
+.venv/
+__pycache__/
+*.py[cod]
